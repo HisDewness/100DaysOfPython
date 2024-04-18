@@ -3,7 +3,7 @@
 # Beginner
 # Working with variables in Python
 
-# Printing a string literl
+# Printing a string literal
 print("Hello world chief");
 
 # Printing a variable with a string literal
@@ -16,7 +16,7 @@ print("Hello world!\nHello bum\nHello fam");
 # String concatenation
 print("Hello" + " " + "bruh")
 
-
+#------------------------------------------------------------------------#
 
 # Interactive Exercise #1 Problem
 # Write a program in main.py that prints the same 
