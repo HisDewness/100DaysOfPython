@@ -1,5 +1,7 @@
 #!/usr/bin/env python3
 
+# This file represents the exercises presented in day 1 of the Udemy Course for 100 Days of Python
+
 # Beginner
 # Working with variables in Python
 
