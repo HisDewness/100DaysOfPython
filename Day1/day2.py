@@ -66,4 +66,17 @@ weight = 65
 bmi = weight / height ** 2
 print("Your BMI is: " + str(bmi))
 
+#------------------------------------------------------------------------#
 
+# Number Manipulation and F-Strings
+
+# Rounding numbers
+print(3.14) # 3
+print(round(3.14159, 2)) # Round to 2 decimal places
+
+# Value Assignment
+score = 0
+score += 1 # Incrementing score by 1
+score -= 1 # Decrementing score by 1
+score *= 2 # Doubling score
+score /= 2 # Halving score
