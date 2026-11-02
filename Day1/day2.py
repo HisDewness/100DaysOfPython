@@ -57,9 +57,13 @@ print(3 / 5) # Division always returns a float
 print(3 ** 5) # Exponentiation - N to the power of M
 print(3 // 5) # Floor Division - returns the largest integer less than or equal to the result of the division
 
-
 #------------------------------------------------------------------------#
 
-
+# Coding Exercise 4: BMI Calculator
+height = 1.65
+weight = 65
+# BMI = "person's weight divided by height squared"
+bmi = weight / height ** 2
+print("Your BMI is: " + str(bmi))
 
 
