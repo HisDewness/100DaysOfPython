@@ -80,3 +80,6 @@ score += 1 # Incrementing score by 1
 score -= 1 # Decrementing score by 1
 score *= 2 # Doubling score
 score /= 2 # Halving score
+
+# F-Strings
+print (f"Your score is: {score}")
