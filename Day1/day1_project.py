@@ -1,6 +1,7 @@
 #!/usr/bin/env python3
 
-# This file represents the exercises presented in day 1 of the Udemy Course for 100 Days of Python
+# This file represents the end of day project 
+# presented in day 1 of the Udemy Course for 100 Days of Python
 
 print("Hello! Welcome to the generator!")
 hometowon = input("What's the name of the city you grew up in?\n")
